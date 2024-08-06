@@ -5,6 +5,7 @@ import './App.css'
 import Form from './components/Form'
 import SecFrom from './components/SecFrom'
 import Mainimg from './components/Mainimg'
+import ContactUs from './components/ContactUs'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <>
       <Mainimg/>
       <SecFrom/>
+      <ContactUs/>
       </>
   )
 }

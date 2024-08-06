@@ -1,0 +1,17 @@
+.aligncentre{
+    text-align: center;
+    color: rgb(94, 89, 100);
+}
+
+.bluespan{
+    color: rgb(0, 128, 255);
+}
+
+.redspan{
+    color: rgb(215, 0, 0);
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
