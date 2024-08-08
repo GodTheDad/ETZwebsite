@@ -3,7 +3,7 @@ import "./Img.css"
 const Mainimg = () => {
   return (
     <div>
-        <img src = "https://i.imgur.com/DM6CGw2.jpeg"/>
+        <img src = "https://i.imgur.com/nECD6b3.jpeg"/>
     </div>
   )
 }

@@ -8,8 +8,8 @@ const ContactUs = () => {
         <p className='aligncentre'>4th/5th Floor, Fortune Towers, 27|29 Adeyemo Alakija VI, Lagos</p>
         <ul className='aligncentre'>
             <li>Tel: 08033032588, 08169320550</li>
-            <li>info@etranzact@gmail.com</li>
-            <li>ww.etramzact.com</li>
+            <li>info@etranzact.com</li>
+            <li>www.etramzact.com</li>
         </ul>
     </div>
   )
