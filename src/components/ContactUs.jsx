@@ -9,7 +9,7 @@ const ContactUs = () => {
         <ul className='aligncentre'>
             <li>Tel: 08033032588, 08169320550</li>
             <li>info@etranzact.com</li>
-            <li>www.etramzact.com</li>
+            <li>www.etranzact.com</li>
         </ul>
     </div>
   )
