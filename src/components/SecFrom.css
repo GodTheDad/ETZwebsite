@@ -68,11 +68,29 @@ button:hover{
     transition: 400ms;
 }
 
+
+.shorterinput{
+    width: 10vw;
+}
+
 @media only screen and (max-width: 1000px) {
     .MainBody{
         width: 98vw;
     }
     .Longerinput{
         width: 92vw;
+    }
+    .shorterinput{
+        width: 30vw
+    }
+    
+  }
+
+  @media only screen and (max-width: 600px) {
+    .horizontal{
+        display:block ;
+    }
+    .shorterinput{
+        width: 92vw; 
     }
   }

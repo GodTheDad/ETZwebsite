@@ -28,6 +28,7 @@ const SecFrom = () => {
                 <div className='Feldfr'>
                 <label htmlFor="fields">FIRST NAME</label>
                 <input
+                    className='shorterinput'
                     id="Firstname"
                     type="text"
                     name="Name_1"
@@ -37,6 +38,7 @@ const SecFrom = () => {
                 <div className='Feldfr'>
                 <label htmlFor="email">LAST NAME</label>
                 <input
+                    className='shorterinput'
                     id="Lastname"
                     type="text"
                     name="Name_2"
