@@ -11,9 +11,7 @@ function App() {
 
   return (
       <>
-      <Mainimg/>
-      <SecFrom/>
-      <ContactUs/>
+      <p>Registration is now closed at this time</p>
       </>
   )
 }

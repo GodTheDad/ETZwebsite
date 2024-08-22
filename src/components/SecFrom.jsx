@@ -11,7 +11,7 @@ const SecFrom = () => {
     if (state.succeeded) {
         return (
             <div>
-                <p>Thanks!</p>;<button onClick={reset}>Reset</button>
+                <p>Thank you for registering. We will contact you for further details.</p>;<button onClick={reset}>Continue</button>
             </div>
         );
     }
