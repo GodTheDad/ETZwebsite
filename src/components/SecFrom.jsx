@@ -3,7 +3,7 @@ import { useForm } from '@formspree/react';
 
 import "./SecFrom.css"
 const SecFrom = () => {
-    const [state, handleSubmit, reset] = useForm('mblroedw');
+    const [state, handleSubmit, reset] = useForm('xgvwqewp');
     if (state.submitting) {
         return <p>Submitting…</p>;
     }
